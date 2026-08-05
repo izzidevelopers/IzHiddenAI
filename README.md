@@ -105,6 +105,7 @@ _Invisible to screen recorders and capture tools. Ask anything, attach images an
 | Shortcut | Action |
 | --- | --- |
 | `Ctrl + Shift + Space` | Hide / show the app window (global) |
+| `Ctrl + M` | Toggle **mini mode** — shrink the window to a small compact input |
 | `Enter` | Send message |
 | `Shift + Enter` | New line |
 
@@ -117,6 +118,7 @@ _Invisible to screen recorders and capture tools. Ask anything, attach images an
 - The monitor button lets you pick a window: **Audio** transcribes its sound live, **Snap** takes a screenshot.
 - The mic button records your voice; toggle the speaker button for spoken replies.
 - Ask it to build something — a script, an HTML page, a small app — and it will automatically use its sandboxed agent terminal, then show **Download** buttons for the files, no mode switching needed.
+- Press **`Ctrl + M`** to shrink the window into a small floating input (mini mode) and again to restore the full chat.
 - The AI saves important facts to its memory automatically and can be asked to run terminal commands or search the web on demand.
 
 ---
