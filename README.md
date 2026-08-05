@@ -20,7 +20,7 @@ _Invisible to screen recorders and capture tools. Ask anything, attach images an
 
 - **File:** `Iz Hidden AI-Setup-1.1.0.exe`
 - **Download size:** ~108 MB
-- **Install size:** ~363 MB
+- **Install size:** ~421 MB
 
 > Download the latest version from the [Releases page](https://github.com/izzidevelopers/IzHiddenAI/releases).
 
@@ -29,7 +29,7 @@ _Invisible to screen recorders and capture tools. Ask anything, attach images an
 - **OS:** Windows 10 or newer (64-bit)
 - **RAM:** Maximum 1 GB required (runs great on low-memory systems)
 - **Processor:** Runs on CPUs less powerful than an Intel Core i3 — no high-end hardware needed
-- **Disk space:** ~363 MB free space for installation
+- **Disk space:** ~421 MB free space for installation
 
 ---
 
@@ -80,7 +80,7 @@ _Invisible to screen recorders and capture tools. Ask anything, attach images an
 1. Go to the **[Releases page](https://github.com/izzidevelopers/IzHiddenAI/releases)** of this repository.
 2. Download the **`Iz Hidden AI-Setup-1.1.0.exe`** file (~108 MB).
 3. Double-click the downloaded installer.
-4. Follow the on-screen instructions and wait for the installation to finish (takes about **363 MB** of disk space).
+4. Follow the on-screen instructions and wait for the installation to finish (takes about **421 MB** of disk space).
 5. Launch **Iz Hidden AI** from your Start Menu or desktop shortcut.
 6. The app opens as a hidden window — press **`Ctrl + Shift + Space`** to show it.
 
