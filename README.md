@@ -19,8 +19,8 @@ _Invisible to screen recorders and capture tools. Ask anything, attach images an
 ## 📥 Download
 
 - **File:** `Iz-Hidden-AI-Beta-Setup-1.2.0.exe`
-- **Download size:** ~108 MB
-- **Install size:** ~421 MB
+- **Download size:** ~104 MB
+- **Install size:** ~443 MB
 
 > Download the latest version from the [Releases page](https://github.com/izzidevelopers/IzHiddenAI/releases).
 
