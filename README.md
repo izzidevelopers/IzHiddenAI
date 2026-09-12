@@ -29,7 +29,7 @@ _Invisible to screen recorders and capture tools. Ask anything, attach images an
 - **OS:** Windows 10 or newer (64-bit)
 - **RAM:** Maximum 1 GB required (runs great on low-memory systems)
 - **Processor:** Runs on CPUs less powerful than an Intel Core i3 — no high-end hardware needed
-- **Disk space:** ~421 MB free space for installation
+- **Disk space:** ~443 MB free space for installation
 
 ---
 
